@@ -2,13 +2,16 @@
   "name": "nezha-echarts-theme",
   "version": "1.0.1",
   "description": "nezha echarts theme",
+  "keywords": [
+    "theme"
+  ],
+  "license": "MIT",
+  "author": "xLsDg",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "theme"
-  ],
-  "author": "xLsDg",
-  "license": "MIT"
+  "dependencies": {
+    "echarts": "latest"
+  }
 }
