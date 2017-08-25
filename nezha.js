@@ -275,13 +275,13 @@
             "axisLine": {
                 "show": true,
                 "lineStyle": {
-                    "color": "#cccccc"
+                    "color": "#666666"
                 }
             },
             "axisTick": {
                 "show": true,
                 "lineStyle": {
-                    "color": "#cccccc"
+                    "color": "#666666"
                 }
             },
             "axisLabel": {
@@ -312,13 +312,13 @@
             "axisLine": {
                 "show": true,
                 "lineStyle": {
-                    "color": "#cccccc"
+                    "color": "#666666"
                 }
             },
             "axisTick": {
                 "show": true,
                 "lineStyle": {
-                    "color": "#cccccc"
+                    "color": "#666666"
                 }
             },
             "axisLabel": {
@@ -349,13 +349,13 @@
             "axisLine": {
                 "show": true,
                 "lineStyle": {
-                    "color": "#cccccc"
+                    "color": "#666666"
                 }
             },
             "axisTick": {
                 "show": true,
                 "lineStyle": {
-                    "color": "#cccccc"
+                    "color": "#666666"
                 }
             },
             "axisLabel": {
@@ -386,13 +386,13 @@
             "axisLine": {
                 "show": true,
                 "lineStyle": {
-                    "color": "#cccccc"
+                    "color": "#666666"
                 }
             },
             "axisTick": {
                 "show": true,
                 "lineStyle": {
-                    "color": "#cccccc"
+                    "color": "#666666"
                 }
             },
             "axisLabel": {
