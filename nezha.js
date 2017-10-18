@@ -491,9 +491,8 @@
         },
         "visualMap": {
             "color": [
-                "#bf444c",
-                "#d88273",
-                "#f6efa6"
+                "#f2602c",
+                "#f9ca21"
             ]
         },
         "dataZoom": {
