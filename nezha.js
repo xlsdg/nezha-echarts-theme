@@ -34,7 +34,7 @@
             "#69d4db",
             "#d42d6b"
         ],
-        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0,0,0,0)",
         "textStyle": {},
         "title": {
             "textStyle": {
@@ -222,25 +222,25 @@
         "map": {
             "itemStyle": {
                 "normal": {
-                    "areaColor": "#eee",
-                    "borderColor": "#444",
+                    "areaColor": "#e6e8ea",
+                    "borderColor": "#ffffff",
                     "borderWidth": 0.5
                 },
                 "emphasis": {
-                    "areaColor": "rgba(255,215,0,0.8)",
-                    "borderColor": "#444",
+                    "areaColor": "#e6e8ea",
+                    "borderColor": "#ffffff",
                     "borderWidth": 1
                 }
             },
             "label": {
                 "normal": {
                     "textStyle": {
-                        "color": "#000"
+                        "color": "#777777"
                     }
                 },
                 "emphasis": {
                     "textStyle": {
-                        "color": "rgb(100,0,0)"
+                        "color": "#777777"
                     }
                 }
             }
@@ -248,25 +248,25 @@
         "geo": {
             "itemStyle": {
                 "normal": {
-                    "areaColor": "#eee",
-                    "borderColor": "#444",
+                    "areaColor": "#e6e8ea",
+                    "borderColor": "#ffffff",
                     "borderWidth": 0.5
                 },
                 "emphasis": {
-                    "areaColor": "rgba(255,215,0,0.8)",
-                    "borderColor": "#444",
+                    "areaColor": "#e6e8ea",
+                    "borderColor": "#ffffff",
                     "borderWidth": 1
                 }
             },
             "label": {
                 "normal": {
                     "textStyle": {
-                        "color": "#000"
+                        "color": "#777777"
                     }
                 },
                 "emphasis": {
                     "textStyle": {
-                        "color": "rgb(100,0,0)"
+                        "color": "#777777"
                     }
                 }
             }
