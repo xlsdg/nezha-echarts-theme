@@ -227,7 +227,7 @@
                     "borderWidth": 0.5
                 },
                 "emphasis": {
-                    "areaColor": "#e6e8ea",
+                    "areaColor": "#ffdf33",
                     "borderColor": "#ffffff",
                     "borderWidth": 1
                 }
@@ -253,7 +253,7 @@
                     "borderWidth": 0.5
                 },
                 "emphasis": {
-                    "areaColor": "#e6e8ea",
+                    "areaColor": "#ffdf33",
                     "borderColor": "#ffffff",
                     "borderWidth": 1
                 }
