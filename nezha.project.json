@@ -26,8 +26,10 @@
         "borderColor": "#ccc",
         "borderWidth": "0",
         "visualMapColor": [
-            "#f2602c",
-            "#f9ca21"
+            "#608ead",
+            "#76b1d5",
+            "#a8d3f0",
+            "#dcecf5"
         ],
         "legendTextColor": "#a5a5a5",
         "kColor": "#c23531",
@@ -49,7 +51,7 @@
         "mapBorderWidth": 0.5,
         "mapBorderWidthE": 1,
         "mapAreaColor": "#e6e8ea",
-        "mapAreaColorE": "#608ead",
+        "mapAreaColorE": "#dbebf0",
         "axes": [
             {
                 "type": "all",
