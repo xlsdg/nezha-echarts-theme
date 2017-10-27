@@ -227,7 +227,7 @@
                     "borderWidth": 0.5
                 },
                 "emphasis": {
-                    "areaColor": "#dbebf0",
+                    "areaColor": "#ffdf33",
                     "borderColor": "#ffffff",
                     "borderWidth": 1
                 }
@@ -253,7 +253,7 @@
                     "borderWidth": 0.5
                 },
                 "emphasis": {
-                    "areaColor": "#dbebf0",
+                    "areaColor": "#ffdf33",
                     "borderColor": "#ffffff",
                     "borderWidth": 1
                 }
@@ -491,10 +491,8 @@
         },
         "visualMap": {
             "color": [
-                "#608ead",
-                "#76b1d5",
-                "#a8d3f0",
-                "#dcecf5"
+                "#f2602c",
+                "#f9ca21"
             ]
         },
         "dataZoom": {
