@@ -49,7 +49,7 @@
         "mapBorderWidth": 0.5,
         "mapBorderWidthE": 1,
         "mapAreaColor": "#e6e8ea",
-        "mapAreaColorE": "#ffdf33",
+        "mapAreaColorE": "#608ead",
         "axes": [
             {
                 "type": "all",
