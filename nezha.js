@@ -227,7 +227,7 @@
                     "borderWidth": 0.5
                 },
                 "emphasis": {
-                    "areaColor": "#dbebf0",
+                    "areaColor": "#bef0fa",
                     "borderColor": "#ffffff",
                     "borderWidth": 1
                 }
@@ -235,12 +235,12 @@
             "label": {
                 "normal": {
                     "textStyle": {
-                        "color": "#777777"
+                        "color": "#999999"
                     }
                 },
                 "emphasis": {
                     "textStyle": {
-                        "color": "#777777"
+                        "color": "#999999"
                     }
                 }
             }
@@ -253,7 +253,7 @@
                     "borderWidth": 0.5
                 },
                 "emphasis": {
-                    "areaColor": "#dbebf0",
+                    "areaColor": "#bef0fa",
                     "borderColor": "#ffffff",
                     "borderWidth": 1
                 }
@@ -261,12 +261,12 @@
             "label": {
                 "normal": {
                     "textStyle": {
-                        "color": "#777777"
+                        "color": "#999999"
                     }
                 },
                 "emphasis": {
                     "textStyle": {
-                        "color": "#777777"
+                        "color": "#999999"
                     }
                 }
             }
@@ -491,10 +491,10 @@
         },
         "visualMap": {
             "color": [
-                "#608ead",
-                "#76b1d5",
-                "#a8d3f0",
-                "#dcecf5"
+                "#2c84db",
+                "#51abf0",
+                "#89d1f5",
+                "#b9ebfa"
             ]
         },
         "dataZoom": {
