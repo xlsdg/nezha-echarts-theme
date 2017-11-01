@@ -222,7 +222,7 @@
         "map": {
             "itemStyle": {
                 "normal": {
-                    "areaColor": "#e6e8ea",
+                    "areaColor": "#ebebeb",
                     "borderColor": "#ffffff",
                     "borderWidth": 0.5
                 },
@@ -235,12 +235,12 @@
             "label": {
                 "normal": {
                     "textStyle": {
-                        "color": "#999999"
+                        "color": "#666666"
                     }
                 },
                 "emphasis": {
                     "textStyle": {
-                        "color": "#999999"
+                        "color": "#666666"
                     }
                 }
             }
@@ -248,7 +248,7 @@
         "geo": {
             "itemStyle": {
                 "normal": {
-                    "areaColor": "#e6e8ea",
+                    "areaColor": "#ebebeb",
                     "borderColor": "#ffffff",
                     "borderWidth": 0.5
                 },
@@ -261,12 +261,12 @@
             "label": {
                 "normal": {
                     "textStyle": {
-                        "color": "#999999"
+                        "color": "#666666"
                     }
                 },
                 "emphasis": {
                     "textStyle": {
-                        "color": "#999999"
+                        "color": "#666666"
                     }
                 }
             }
@@ -491,10 +491,12 @@
         },
         "visualMap": {
             "color": [
-                "#2c84db",
-                "#51abf0",
-                "#89d1f5",
-                "#b9ebfa"
+                "#4d7bd6",
+                "#5282e3",
+                "#3a8de0",
+                "#45a3e6",
+                "#75c3eb",
+                "#dceff5"
             ]
         },
         "dataZoom": {

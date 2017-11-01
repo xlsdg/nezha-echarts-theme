@@ -26,10 +26,12 @@
         "borderColor": "#ccc",
         "borderWidth": "0",
         "visualMapColor": [
-            "#2c84db",
-            "#51abf0",
-            "#89d1f5",
-            "#b9ebfa"
+            "#4d7bd6",
+            "#5282e3",
+            "#3a8de0",
+            "#45a3e6",
+            "#75c3eb",
+            "#dceff5"
         ],
         "legendTextColor": "#a5a5a5",
         "kColor": "#c23531",
@@ -44,13 +46,13 @@
         "lineSmooth": false,
         "graphLineWidth": 1,
         "graphLineColor": "#aaa",
-        "mapLabelColor": "#999999",
-        "mapLabelColorE": "#999999",
+        "mapLabelColor": "#666666",
+        "mapLabelColorE": "#666666",
         "mapBorderColor": "#ffffff",
         "mapBorderColorE": "#ffffff",
         "mapBorderWidth": 0.5,
         "mapBorderWidthE": 1,
-        "mapAreaColor": "#e6e8ea",
+        "mapAreaColor": "#ebebeb",
         "mapAreaColorE": "#bef0fa",
         "axes": [
             {
